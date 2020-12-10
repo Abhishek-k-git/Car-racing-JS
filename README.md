@@ -1,5 +1,9 @@
 # Simple car racing game in Vanilla JavaScript
-###Classical car racing game###
+
+## Technology Used ##
+<a href="#"> <img alt="JavaScript" src="https://github.com/Abhishek-k-git/image/blob/main/javascript.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/image/blob/main/html.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="CSS3" src="https://github.com/Abhishek-k-git/image/blob/main/css.svg" width="40" height="40" /> </a>
 
 - *Have a sneak peak to our code*
 ```
