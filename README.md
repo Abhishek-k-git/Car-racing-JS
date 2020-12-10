@@ -75,9 +75,9 @@
   }
 ```
 
-<img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(139).png" />
-<img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(143).png" />
-<img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(142).png" />
-:innocent:If you hit:boom: you loose...
+<a href="#"> <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(139).png" height="200px" width="300px"/></a>
+<a href="#"> <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(143).png" height="200px" width="300px"/></a>
+<a href="#"> <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(142).png" height="200px" width="300px"/></a>
+:innocent:If you hit:boom: you loose...<br>
 
 Created with :heart:
