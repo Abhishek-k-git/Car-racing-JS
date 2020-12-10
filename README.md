@@ -74,6 +74,6 @@
 <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(139).png" />
 <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(143).png" />
 <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(142).png" />
-:innocent:####If you hit you loose...####
+:innocent:If you hit:boom: you loose...
 
-:musical_note: Stay tunned!!!
+Created with :heart:
