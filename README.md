@@ -1,9 +1,11 @@
 # Simple car racing game in Vanilla JavaScript
 
 ## Technology Used ##
-<a href="#"> <img alt="JavaScript" src="https://github.com/Abhishek-k-git/image/blob/main/javascript.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/image/blob/main/html.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="CSS3" src="https://github.com/Abhishek-k-git/image/blob/main/css.svg" width="40" height="40" /> </a>
+_**icons**_ | _**names**_ |
+------------|-------------
+<a href="#"> <img alt="JavaScript" src="https://github.com/Abhishek-k-git/image/blob/main/javascript.svg" width="40" height="40" /> </a> | JavaScript
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/image/blob/main/html.svg" width="40" height="40" /> </a> | HTML5
+<a href="#"> <img alt="CSS3" src="https://github.com/Abhishek-k-git/image/blob/main/css.svg" width="40" height="40" /> </a> | css3
 
 - *Have a sneak peak to our code*
 ```
@@ -75,9 +77,13 @@
   }
 ```
 
-<a href="#"> <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(139).png" height="200px" width="300px"/></a>
-<a href="#"> <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(143).png" height="200px" width="300px"/></a>
-<a href="#"> <img src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(142).png" height="200px" width="300px"/></a><br>
+<a href="#"> <img align="left" src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(139).png" height="200px" width="230px"/></a>
+<a href="#"> <img align="left" src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(143).png" height="200px" width="230px"/></a>
+<a href="#"> <img align="left" src="https://github.com/Abhishek-k-git/image/blob/main/Screenshot%20(142).png" height="200px" width="230px"/></a><br>
+<!--
+empty line
+-->
+
 :innocent:If you hit:boom: you loose...<br>
 
 Created with :heart:
